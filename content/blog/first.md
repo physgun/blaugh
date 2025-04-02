@@ -1,6 +1,0 @@
-+++
-title = "First Post"
-date = 2025-03-30
-+++
-
-The first poast.
